@@ -1,3 +1,4 @@
+/* css geral */
 header {
     background: #f1c40f;
     min-height: 65px;
@@ -99,6 +100,7 @@ footer {
 	border: 1px solid #ccc;
 	text-align: center;
 }
+/* css tabela */
 
 table{
 	width: 100%;
@@ -107,7 +109,7 @@ table{
 
 }
 
-td, th {
+td, th{
 	padding: .7em;
 	margin: 6px;
 	border: 1px solid #ccc;
@@ -115,12 +117,11 @@ td, th {
 }
 
 th{
-	margin: 6px;
 	font-weight: bold;
 	background-color: #EEE;
 }
 
-.container h1{
+.titulo-itens h1{
     padding-top: 6px ;
 	font-size: 2em;
     text-align:	center;
