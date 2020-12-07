@@ -79,3 +79,6 @@ footer {
 .menu-imagens:hover{
     opacity: 75%;
 }
+.titulo {
+    font-size: 20px;
+}
